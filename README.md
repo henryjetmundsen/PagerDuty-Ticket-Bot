@@ -1,1 +1,1 @@
-A fork of the easy-peasy-bot made to integrate PagerDuty with a slackBot to show who is on call, notify the person on call, and remind them to update trusts.
+A slack bot that integrates PagerDuty with Slack to notify on call developers of new tickets, escalate and resolve tickets, and send reminders to update customers on ticket tracking.
